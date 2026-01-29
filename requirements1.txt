@@ -5,3 +5,5 @@ huggingface-hub
 python-dotenv
 streamlit
 typing-extensions
+
+https://premmote-simple-chatbot.hf.space
